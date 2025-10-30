@@ -1,0 +1,37 @@
+{
+  "id": "26c5cc0c-7a1c-4488-ab5d-fc3c0e5116ad",
+  "name": "LAB04 Call functions",
+  "publisher": "Roberto Corella - Aprende Business Central",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+ "dependencies": [{
+      "id": "e46fa642-e570-4ff2-8365-3636b3a005e8",
+      "name": "WorkshopsSecrets",
+      "publisher": "Roberto Corella - Aprende Business Central",
+      "version": "1.0.0.0"
+    }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50910,
+      "to": 50919
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
