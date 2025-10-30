@@ -1,0 +1,37 @@
+{
+  "id": "105ee279-04c2-4d35-9343-3289aec1d358",
+  "name": "LAB03 Demo Customers 2",
+  "publisher": "Roberto Corella - Aprende Business Central",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+      "id": "e46fa642-e570-4ff2-8365-3636b3a005e8",
+      "name": "WorkshopsSecrets",
+      "publisher": "Roberto Corella - Aprende Business Central",
+      "version": "1.0.0.0"
+    }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 70190,
+      "to": 70199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
